@@ -27,8 +27,10 @@ Machine Learning and Neural Networks
   - How many neurons, layers, and activation functions did you select for your neural network model, and why?
     
     For my neural network model, I attempted to increase the accuracy three times by using different amounts of nuerons in each layer, added on layers, and used different activation functions per layer. My second attempt had the highest accuracy of about 71%.
+    
+    ![](https://github.com/Ariannatopbjerg/Neural_Network_Charity_Analysis/blob/main/images/attempt2.PNG)
    
-   What I used
+   **What I used**
    - Two hidden layers:
    - Layer one: 50 neurons, activation function: relu
    - Layer two: 10 neurons, activation function: relu
@@ -43,3 +45,4 @@ Machine Learning and Neural Networks
     I decreased the amount of neurons in each of the hidden layers, as well as dropped columns STATUS and SPECIAL_CONSIDERATIONS
     
 ## Summary
+
