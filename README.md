@@ -33,7 +33,7 @@ Machine Learning and Neural Networks
     
     ![](https://github.com/Ariannatopbjerg/Neural_Network_Charity_Analysis/blob/main/images/attempt2.PNG)
    
-   **What I used: **
+   **What I used:**
       Two hidden layers:
       Layer one: 50 neurons, activation function: relu
       Layer two: 10 neurons, activation function: relu
