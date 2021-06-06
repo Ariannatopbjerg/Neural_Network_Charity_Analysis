@@ -31,10 +31,10 @@ Machine Learning and Neural Networks
     ![](https://github.com/Ariannatopbjerg/Neural_Network_Charity_Analysis/blob/main/images/attempt2.PNG)
    
    **What I used**
-   - Two hidden layers:
-   - Layer one: 50 neurons, activation function: relu
-   - Layer two: 10 neurons, activation function: relu
-   - Output layer: activation function: sigmoid
+      Two hidden layers:
+      Layer one: 50 neurons, activation function: relu
+      Layer two: 10 neurons, activation function: relu
+      Output layer: activation function: sigmoid
   
   - Were you able to achieve the target model performance?
    
@@ -45,4 +45,4 @@ Machine Learning and Neural Networks
     I decreased the amount of neurons in each of the hidden layers, as well as dropped columns STATUS and SPECIAL_CONSIDERATIONS
     
 ## Summary
-
+The initial model before removing the additional columns STATUS and SPECIAL_CONSIDERATIONS and decreasing neurons in the hidden layers, had an accuracy of 52%. By dropping more columns and reducing neuron count has increased the model's accuracy by 19%, giving the model an accuracy score of 71%. The low accuracy score in the original model can be explained by the fact that the model overfitted the data. 
